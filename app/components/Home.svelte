@@ -50,7 +50,6 @@
 </script>
 
 <StackLayout class="bg-black py-7 text-white text-right m-2">
-    
 </StackLayout>
 
 
